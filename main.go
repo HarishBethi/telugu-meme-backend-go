@@ -1,17 +1,16 @@
 package main
 
 import (
-	"github.com/gin-gonic/gin"
+	"encoding/json"
+	"net/http"
 )
 
 func main() {
-	r := gin.Default()
-
-	r.GET("/", func(c *gin.Context) {
-		c.JSON(200, gin.H{
-			"message": "Go backend working!",
-		})
+	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
+		response := map[string]string{"message": "Go backend working!"}
+		w.Header().Set("Content-Type", "application/json")
+		json.NewEncoder(w).Encode(response)
 	})
 
-	r.Run(":8080")
+	http.ListenAndServe(":8080", nil)
 }
