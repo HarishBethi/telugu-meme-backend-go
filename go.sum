@@ -1,5 +1,5 @@
-github.com/gin-gonic/gin v1.10.0 h1:VtOWhGxD9dqxRpF89UaSkk2mBVJFcjRRs0tfuL4aR6Y=
-github.com/gin-gonic/gin v1.10.0/go.mod h1:hOYj0A0Ai9Zb5CFAN9n8eU/VZb4XTATG8j8tZcfyi7E=
+github.com/gin-gonic/gin v1.9.1 h1:ZVDNIyLjxVxF8od3qMCgzYieJSy4eod7Ji077s9NcXw=
+github.com/gin-gonic/gin v1.9.1/go.mod h1:4zAwo9r1vylq0S+v2b0N2asmkeaDT0Eo7BlvcNqaJjY=
 github.com/go-playground/locales v0.14.1 h1:E3sOGW7POrURQk9iSayJYyakYZZwNhQmb4bcoefbiRs=
 github.com/go-playground/locales v0.14.1/go.mod h1:hYBq2iKkV3a56eYNvUz//83b7P8jQ2AvCZ24OGRBnMM=
 github.com/go-playground/universal-translator v0.18.1 h1:GvO78rfwWvPngRPx+YV8uhoO2OdSiwrbViI47Og2t00=
@@ -8,5 +8,5 @@ github.com/go-playground/validator/v10 v10.15.1 h1:HwZI3Z8XZ7n/xLcknaH1LosxrrcrR
 github.com/go-playground/validator/v10 v10.15.1/go.mod h1:9ZQsAFW28BX7xQv4Re6LhO8Y0EsidgITs2zQjm6mjF4=
 github.com/goccy/go-json v0.10.2 h1:xCHb3dwQ0T7FZhFvKnsnd2vgaH6m7cVQ1uPGdMiei4k=
 github.com/goccy/go-json v0.10.2/go.mod h1:ITq4Xj8j2n5BV6noyhBvwMxJ9fSJH2YpqChJxjTTlME=
-golang.org/x/net v0.17.0 h1:mJ7pAhTka75cU4KbpEDo8IMOfkW8bhGnk1QyaGoAO5E=
-golang.org/x/net v0.17.0/go.mod h1:m0vIKwp7r7cY4DKq+eNOS20feo3MhI/sFIWtdwASkGo=
+golang.org/x/net v0.14.0 h1:d1dXuAwUnvBi8EM+st5g6Ex4Jb3Du2frpYW1Zql7XHc=
+golang.org/x/net v0.14.0/go.mod h1:Po3hX1Kq8RDmF+tRQjqyYVj5lgkUfB55vt5x3Dmz59E=
