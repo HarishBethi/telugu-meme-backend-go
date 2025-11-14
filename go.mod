@@ -2,4 +2,4 @@ module telugu-meme-backend-go
 
 go 1.22
 
-require github.com/gin-gonic/gin v1.10.0
+require github.com/gin-gonic/gin v1.9.1
